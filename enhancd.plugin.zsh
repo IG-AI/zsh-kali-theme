@@ -1,4 +1,3 @@
- 
 #!/bin/bash
 
 export ENHANCD_ROOT
